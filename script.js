@@ -5,7 +5,7 @@ const dishData = [
     { name: "Chicken with potatoes", price: 15.55 },
     { name: "Vegetarian Pizza", price: 6.45 },
   ];
-  const tax = 1.2;
+  const tax = 0.20;
   
   // Function to calculate the total price without tax
   function calculateTotalPrice(selectedDishes) {
